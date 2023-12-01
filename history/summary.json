@@ -1,23 +1,21 @@
 [
   {
-    "name": "qouus",
-    "url": "https://qouus.cctw10086.tk",
-    "icon": "https://icons.duckduckgo.com/ip3/qouus.cctw10086.tk.ico",
-    "slug": "qouus",
-    "status": "down",
-    "uptime": "10.17%",
-    "uptimeDay": "10.17%",
-    "uptimeWeek": "10.17%",
-    "uptimeMonth": "10.17%",
-    "uptimeYear": "10.17%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-12-01": 0
-    }
+    "name": "quus",
+    "url": "https://quus.cctw10086.tk",
+    "icon": "https://icons.duckduckgo.com/ip3/quus.cctw10086.tk.ico",
+    "slug": "quus",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 607,
+    "timeDay": 607,
+    "timeWeek": 607,
+    "timeMonth": 607,
+    "timeYear": 607,
+    "dailyMinutesDown": {}
   },
   {
     "name": "sg1",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 756,
-    "timeWeek": 756,
-    "timeMonth": 756,
-    "timeYear": 756,
+    "time": 757,
+    "timeDay": 757,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 734,
-    "timeDay": 734,
-    "timeWeek": 734,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "time": 810,
+    "timeDay": 810,
+    "timeWeek": 810,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   }
 ]
