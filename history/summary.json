@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/quus.cctw10086.tk.ico",
     "slug": "quus",
     "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "90.42%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "85.44%",
+    "uptimeMonth": "90.42%",
+    "uptimeYear": "90.42%",
     "time": 274,
-    "timeDay": 134,
-    "timeWeek": 169,
+    "timeDay": 0,
+    "timeWeek": 153,
     "timeMonth": 274,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2023-12-11": 29
+      "2023-12-12": 74,
+      "2023-12-11": 1393
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 1172,
-    "timeWeek": 1045,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 939,
+    "timeDay": 777,
+    "timeWeek": 1018,
+    "timeMonth": 939,
+    "timeYear": 939,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 1179,
-    "timeWeek": 991,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "time": 905,
+    "timeDay": 778,
+    "timeWeek": 965,
+    "timeMonth": 905,
+    "timeYear": 905,
     "dailyMinutesDown": {}
   }
 ]
