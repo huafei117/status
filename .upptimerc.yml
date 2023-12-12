@@ -8,7 +8,7 @@ sites:
   - name: sg1
     url: https://sg1.cctw10086.tk
   - name: qou
-    url: https://qou.cctw10086.tk
+    url: https://sg2.cctw10086.tk
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
