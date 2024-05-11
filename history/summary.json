@@ -4,7 +4,7 @@
     "url": "https://sg2.cctw10086.top",
     "icon": "https://icons.duckduckgo.com/ip3/sg2.cctw10086.top.ico",
     "slug": "sg2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1121,
     "timeMonth": 1099,
     "timeYear": 1040,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-11": 0
+    }
   }
 ]
