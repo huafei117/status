@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg2.cctw10086.top.ico",
     "slug": "sg2",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 1049,
-    "timeDay": 1179,
-    "timeWeek": 1085,
-    "timeMonth": 1074,
-    "timeYear": 1049,
+    "uptimeYear": "99.95%",
+    "time": 1048,
+    "timeDay": 887,
+    "timeWeek": 1041,
+    "timeMonth": 1065,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2024-05-11": 107
     }
